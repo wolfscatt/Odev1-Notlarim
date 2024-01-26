@@ -1,0 +1,88 @@
+# Project Management
+
+Coursera da bulunan Proje Yönetimi Temelleri ile ilgili notlar
+
+## Proje Yaşam Döngüsü
+
+- **Projeyi Başlatmak**
+    - Proje hedefleri ve teslimatlar tanımlanır.
+    - İhtiyaç duyulacak kaynaklar ve katılacak insanlar hazırlanır.
+- **Plan Yapmak**
+    - Bir çok farklı plan türleri vardır fakat temel olarak gerekli işleri gerekli kişilere paylaştırmak gerekir.
+    - Bütçe Oluşturulur.
+    - Proje zaman çizelgesi düzenlenir.
+    - Ekip kurulur. Ve ekipteki kişilerin rolleri ve sorumlulukları belirlenir.
+    - En önemlisi risk ve değişim planının yapılmasıdır.
+- **Projeyi Tamamlamak**
+    - Projenin tamamlanması ekip üyelerine bağlıdır.
+    - Zaman yönetimi ve iletişim.
+- **Projeyi Kapatmak**
+    - Projeyi değerlendirmek ve bitişini kutlamak.
+    - Bütün görevlerin tamamlandığından emin olmak.
+    - Proje süreci boyunca yapılan hatalardan ders çıkarmak.
+    - Proje sonucunu paydaşlar ile paylaşmak.
+
+## Proje Yönetimi Metodolojileri
+
+Doğrusal ve yinelemeli olmak üzere 2 ye ayrılır.
+
+Bir ev inşaa ederken doğrusal bir proje metodolojisi kullanmak daha mantıklı olur.
+
+Fakat bir oyun hazırlarken proje içerisinde bazı yerlerin değişebileceği için yinelemeli bir metodoloji kullanmak daha akıllıca olacaktır.
+
+## Şelale - Waterfall ve Çevik - Agile Yaklaşımları
+
+### Şelale - Waterfall
+
+- Doğrusal bir yaklaşıma sahiptir.
+- Net kurallar çerçevesinde ilerler.
+- Değişiklik çok fazla yapılmaz.
+
+### Agile - Çevik
+
+- Esnekliği ve kolay hareket edebilmeyi sağlar.
+- Yinelemeli bir yaklaşıma sahiptir.
+- Değişikliğe adapte olmayı sağlar.
+- **Scrum** yapısında çakışık aşamalara ve yinelemeli görevlere **sprint** adı verilir.
+- Sprintler, ekiplerin birlikte çalışarak belirli görevleri tamamlamaya odaklandıkları 1 ila 4 hafta arasındaki zaman dilimleridir.
+- Amacı, en yüksek değeri en kısa sürede yaratabilmektir.
+
+## Yalın Altı Sigma Metodolojileri
+
+5 aşama vardır. **DMAIC** olarak kısaltılır
+
+- **Define - Tanımlama:** Proje hedefini ve ona ulaşmak için neler gerektiğini tanımlamak.
+- **Measure - Ölçme:** Süreci inceleyerek sorunun nerede olduğunu ölçme aşamasıdır. Verileri odaklanılır.
+- **Analyze - Analiz Etme:** Ölçülen, toplanan veriler analiz edilir.
+- **Improve - İyileştirme:** Analizler sonucu bulguları iyileştirme aşamasıdır.
+- **Control - Kontrol Etme:** Tüm yapılanlardan sonra sistemin sorunsuz çalışıp çalışmadığını kontrol etme aşamasıdır.
+
+## Klasik-Kurumsal Yapı ve Organizasyon-Matris Yapısı
+
+### Organizasyon-Matris Yapısı
+
+- Bir şirketin ya da kurumun düzenlenme ya da yapılandırılma biçimini ifade eder.
+- Aynı zamanda işteki görevlerin nasıl bölünüp koordine edildiğini ve organizasyonun farklı üyelerinin birbirleriyle nasıl bir ilişki içerisinde olduğunu da anlatır.
+- Kısacası bu yapı; kimin kime raporladığına dair bir fikir verir.
+- **Klasik Gruplandırma:** Yukarıdan aşağıya hiyerarşik bir yapı içerir. Benzer yapıyı **ordu** da kullanır.
+- **Matris Yapısı:** Bu yapıda raporlar hem doğrudan üstünüzdeki kişiye gönderilir hem de farklı programlardan paydaşlara gönderilir.
+
+## Kurumsal Kültür
+
+- Çalışanların paylaştığı değerler ve ayrıca kurumun değerleri, misyonu, tarihi gibi unsurlardır.
+- Bir şirketin kültürünü anlamak için:
+    - İnsanlar nasıl iletişim kurmayı tercih ediyor. E-postalar, Toplantılar v.s
+    - Kararlar çoğunluk oyuyla mı, yoksa yukarıdan onayla mı alınıyor?
+    - Ofise yeni biri geldiğinde ne tür ritüeller izleniyor.
+    - Projeler nasıl yürütülüyor. Klasik yapı mı, Matris yapısı mı yoksa farklı yapılar mı?
+    - Organizasyondaki insanlar ne tür uygulamaları, davranışları ve değerleri yansıtıyor ?
+
+## Değişim Yönetimi
+
+- Tamamlanmış bir projeyi teslim etme ve bunu insanlara benimsetme sürecine **değişim yönetimi** denir.
+- 3 Temel kavram vardır.
+    - Proje için bir sahiplenme ve aciliyet duygusu yaratmak.
+    - Ekipte çalışacak kişileri seçerken becerilerin ve kişiliklerin doğru kombinasyonunu bulmaktır.
+    - Etkili İletişim
+
+1.Kurs Bitişi: 24.01.2024 - 14.40; Yukarıdaki bütün konular 1. kursta işlenmiştir.
